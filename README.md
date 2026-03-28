@@ -44,7 +44,7 @@ That's it. The widget fetches data from the FontFYI API and renders with full st
 | `data-fontfyi` | entity, compare, glossary, guide, search, tooltip, [tools] | required | Widget type |
 | `data-slug` | e.g. "fonts" | — | Entity slug from the FontFYI database |
 | `data-theme` | light, dark, sepia, auto | light | Visual theme (`auto` follows OS preference) |
-| `data-style` | modern, minimal | modern | Widget design style |
+| `data-styleVariant` | modern, minimal | modern | Widget design style |
 | `data-size` | default, compact, large | default | Widget size |
 | `data-placeholder` | any string | "Search Fonts..." | Search box placeholder |
 
@@ -68,10 +68,10 @@ That's it. The widget fetches data from the FontFYI API and renders with full st
 
 ```html
 <!-- Modern (default) — clean lines, rounded corners, accent gradients -->
-<div data-fontfyi="entity" data-slug="fonts" data-style="modern"></div>
+<div data-fontfyi="entity" data-slug="fonts" data-styleVariant="modern"></div>
 
 <!-- Minimal — subtle borders, flat design, no gradients -->
-<div data-fontfyi="entity" data-slug="fonts" data-style="minimal"></div>
+<div data-fontfyi="entity" data-slug="fonts" data-styleVariant="minimal"></div>
 ```
 
 ## Web Components (Custom Elements)
