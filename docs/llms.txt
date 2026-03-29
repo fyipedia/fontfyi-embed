@@ -1,0 +1,27 @@
+# FontFYI Embed Widget
+
+> Embeddable FontFYI widgets for any website. Zero dependencies, Shadow DOM isolation, 4 themes (light/dark/sepia/auto).
+
+## Quick Start
+
+Add to any HTML page:
+- Script: <script src="https://cdn.jsdelivr.net/npm/fontfyi-embed@1/dist/embed.min.js"></script>
+
+## Links
+
+- Main site: https://fontfyi.com
+- Widget docs: https://widget.fontfyi.com
+- npm: https://www.npmjs.com/package/fontfyi-embed
+- GitHub: https://github.com/fyipedia/fontfyi-embed
+- API: https://fontfyi.com/developers/
+
+## Creative FYI Widget Family
+
+- [ColorFYI Widget](https://widget.colorfyi.com)
+- [EmojiFYI Widget](https://widget.emojifyi.com)
+- [SymbolFYI Widget](https://widget.symbolfyi.com)
+- [UnicodeFYI Widget](https://widget.unicodefyi.com)
+
+## Part of FYIPedia
+
+Open-source developer tools ecosystem — https://fyipedia.com
