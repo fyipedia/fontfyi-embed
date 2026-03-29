@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# FontFYI Embed Widget
+# Main site: https://fontfyi.com
+# Widget docs: https://widget.fontfyi.com
+# npm: https://www.npmjs.com/package/fontfyi-embed
